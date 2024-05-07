@@ -1,6 +1,6 @@
 # Ex-9-IMPLEMENTATION OF THE BACK END OF THE COMPILER
-# NAME: Akash A
-# REGISTER NUMBER:212221040010
+# NAME: sivaragul.m
+# REGISTER NUMBER:212221040155
 # Date :03.04.2024
 # Aim :
 To write a program to implement the back end of the compiler.
